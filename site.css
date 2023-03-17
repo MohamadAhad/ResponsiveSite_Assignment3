@@ -218,4 +218,6 @@ header, footer{
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
+  .item25{
+    width: 50%;
 }
